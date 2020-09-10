@@ -1,5 +1,5 @@
 # Flex!
-## List
+## Informations
 - Processor name and ram
 - Graphic card name and ram
 - Pc name
