@@ -1,0 +1,10 @@
+C:\Users\Divine\source\repos\Flex!\Flex!\obj\Debug\Flex!.csprojAssemblyReference.cache
+C:\Users\Divine\source\repos\Flex!\Flex!\obj\Debug\Flex_.Form1.resources
+C:\Users\Divine\source\repos\Flex!\Flex!\obj\Debug\Flex_.Properties.Resources.resources
+C:\Users\Divine\source\repos\Flex!\Flex!\obj\Debug\Flex!.csproj.GenerateResource.cache
+C:\Users\Divine\source\repos\Flex!\Flex!\obj\Debug\Flex!.csproj.CoreCompileInputs.cache
+C:\Users\Divine\source\repos\Flex!\Flex!\bin\Debug\Flex!.exe.config
+C:\Users\Divine\source\repos\Flex!\Flex!\bin\Debug\Flex!.exe
+C:\Users\Divine\source\repos\Flex!\Flex!\bin\Debug\Flex!.pdb
+C:\Users\Divine\source\repos\Flex!\Flex!\obj\Debug\Flex!.exe
+C:\Users\Divine\source\repos\Flex!\Flex!\obj\Debug\Flex!.pdb
