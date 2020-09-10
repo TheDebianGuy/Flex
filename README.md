@@ -9,6 +9,7 @@
 - Screen resolution
 - Current drive space and drive letters
 - Current working directory
+- __Not using win32 api__
 ## ToDo
 - Space of all drives
 - More detailed gpu info
