@@ -1,7 +1,7 @@
 # Flex!
 ## Informations
-- Processor name and ram
-- Graphic card name and ram
+- Processor name and RAM
+- Graphic card name and RAM
 - Pc name
 - Brand name
 - Brand model ('Find this device' button)
